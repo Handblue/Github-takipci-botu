@@ -1,7 +1,7 @@
 # Github-takipci-botu
  ### Github takipçi çekme botu. Github takipçilerinizi sırası ile size gösterir.
 
- Webdriver indirmeniz gerekli link: https://chromedriver.storage.googleapis.com/106.0.5249.21/chromedriver_win32.zip (Windows - Chrome) 
+Webdriver indirmeniz gerekli link: https://chromedriver.storage.googleapis.com/106.0.5249.21/chromedriver_win32.zip (Windows - Chrome) 
 
 Diğer dağılımlar için: https://chromedriver.storage.googleapis.com/index.html?path=106.0.5249.21/
 
