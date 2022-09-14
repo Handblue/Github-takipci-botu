@@ -12,6 +12,8 @@ Diğer dağılımlar için: https://chromedriver.storage.googleapis.com/index.ht
 pip install selenium
 ```
 
+Video: https://www.youtube.com/watch?v=hgwKgoDzh-s
+
 <br />
 📬 Find me 
 <br />
